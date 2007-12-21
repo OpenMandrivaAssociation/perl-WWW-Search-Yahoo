@@ -16,6 +16,7 @@ Buildrequires:	perl-devel
 %endif
 BuildRequires:	perl(I18N::Charset)
 BuildArch:	noarch
+BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 This class is a Yahoo specialization of WWW::Search. It handles
