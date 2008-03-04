@@ -1,6 +1,6 @@
 %define module	WWW-Search-Yahoo
 %define name	perl-%{module}
-%define version 2.409
+%define version 2.411
 %define release %mkrel 1
 
 Name:		%{name}
