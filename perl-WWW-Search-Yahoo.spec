@@ -2,7 +2,7 @@
 
 Name:		perl-%{module}
 Version:	2.415
-Release:	2
+Release:	3
 License:	GPL or Artistic
 Summary:	Backend for searching www.yahoo.com
 Group:		Development/Perl
