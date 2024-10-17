@@ -6,7 +6,7 @@ Release:	4
 License:	GPL or Artistic
 Summary:	Backend for searching www.yahoo.com
 Group:		Development/Perl
-URL:		http://search.cpan.org/dist/%{module}
+URL:		https://search.cpan.org/dist/%{module}
 Source0:	ftp://ftp.perl.org/pub/CPAN/modules/by-module/WWW/%{module}-%{version}.tar.bz2
 
 BuildRequires:	perl-devel
